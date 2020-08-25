@@ -14,3 +14,4 @@ Each pattern is a set of 60 numbers in the range 0.0 to 1.0. Each number represe
 The label associated with each record contains the letter "R" if the object is a rock and "M" if it is a mine (metal cylinder). The numbers in the labels are in increasing order of aspect angle, but they do not encode the angle directly.
 
 ##### Results
+![alt text](https://github.com/OumaimaChmissi/MLP-Sonar-DataSet/blob/master/Screenshot%20from%202019-08-30%2015-43-31.png)
